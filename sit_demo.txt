@@ -1,5 +1,6 @@
 git add
 
+<<<<<<< HEAD
 git commit -m
 
 git push
@@ -7,3 +8,6 @@ git push
 test line
 
 test line 2
+=======
+git commit -m
+>>>>>>> ut
